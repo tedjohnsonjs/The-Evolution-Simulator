@@ -4,3 +4,4 @@ The Evolution Simulator is a basic simulation of Darwin's Theory of evolution, w
 
 This program ustilizes the panel component in WinForms to draw its graphics. More information can be found in my blog post.
 Download application: https://drive.google.com/file/d/1gM37NQOmjs4zPqChTcnSp0h8q-Xn_Nfv/view?usp=sharing
+Blog post : https://tedjohnsondevblog.blogspot.com/2018/02/the-evolution-simulator.html
